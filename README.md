@@ -1,2 +1,2 @@
 # Python-Notes
-read notes from Notes.md file to become pro in python but its just book the important thing still remain practice and mre practice
+read notes from both .md files in this repo to become pro in python but its just the guide how to use it the important thing still remain practice and more practice
